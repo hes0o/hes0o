@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hes0o , i am a junior software engineer this is my first year at collage , this github page will be the living proof to my capabilities.
+- 👋 Hi, I’m @hes0o , i am a junior software engineer this is my first year at collage ,my  github page will be the living proof to my capabilities.
 
 
 <!---
