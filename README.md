@@ -1,70 +1,18 @@
-# Hi, I'm Hassan 👋
 
-🎓 Software Engineering Student  
-💻 Trying to be a Full-Stack Developer | System Builder  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassan-chawa-15b9592b3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanshawa30@gmail.com) 
 
-I enjoy building **real-world software systems** from the ground up — focusing on **clean architecture**, **efficiency**, and **clarity** rather than unnecessary complexity.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hes0o&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hes0o&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hes0o&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🚀 About Me
-
-- 🛠 I prefer **coding solutions myself** instead of relying on bloated frameworks or plugins
-- 🧠 Strong interest in **system design**, **backend logic**, and **data flow**
-- 📚 Currently balancing **academic studies** with **hands-on projects**
-- 🔍 I like understanding *how things work*, not just making them work
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hes0o&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hes0o&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧰 Tech Stack
-
-### Languages
-- **PHP**
-- **Java**
-- **C#**
-- **JavaScript**
-- **SQL**
-
-### Frameworks & Tools
-- **Laravel**
-- **React**
-- **Bootstrap**
-- **.NET / WinForms**
-- **Git & GitHub**
-- **MySQL**
-
----
-
-## 🧪 Projects & Experience
-
-- IsLink my latest ai powered project that helps cusotmers to start their own project
-  using the system ai page
-
-- 💈 **Barber Appointment System**  
-  PHP + Bootstrap system deployed on cPanel
-
-- 🗂 **Warehouse & Inventory Systems**  
-  Focus on accurate weight tracking, profit calculation, and transparency
-
-- 🛒 **Local Classifieds Platform (sahibinden-style)**  
-  Custom-built backend & frontend (Laravel + React)
-
----
-
-## 📈 What I Care About
-
-- Clean, readable code
-- Logical data models (ERDs, schemas)
-- Scalable system structure
-- Practical solutions over hype
-
----
-
-## 📫 Contact
-
-- GitHub: **[@hes0o](https://github.com/hes0o)**  
-- Open to collaboration, learning, and improving
-
----
-
-> “Good software is built, not assembled.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
