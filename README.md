@@ -1,27 +1,38 @@
-# Hi, I'm Hesoo 👋
+# 👋 Hi, I'm Hesoo
 
-**the long way of a Full-Stack Software Developer & DevOps Enthusiast**  
-Focused on architecting scalable web applications, designing asynchronous backend APIs, and automating containerized deployments on Linux infrastructure.
+**Backend / Full-Stack Engineer | AI Systems & Security**
 
----
-
-### 🛠 Tech Stack
-
-* **Languages:** TypeScript, JavaScript, Python, SQL, Bash ,Java , C# 
-* **Frontend:** Next.js, React, Tailwind CSS
-* **Backend:** FastAPI, Node.js, Express, REST APIs
-* **Databases:** PostgreSQL, MongoDB
-* **DevOps & Cloud:** Docker, Docker Compose, Nginx, Linux (Debian), CI/CD (GitHub Actions)
+I build production-oriented full-stack systems, AI applications, and security tooling. My engineering focus lies in backend architecture, LLM/RAG integrations, distributed applications, and robust deployment pipelines. 
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🛠️ Core Engineering Stack
 
-* **[cve-analyzer-assistant](https://github.com/hes0o/cve-analyzer-assistant):** Automated backend pipeline for security vulnerability analysis using FastAPI and PostgreSQL.
-* **[HedeFly](https://github.com/hes0o/HedeFly):** Full-stack, multi-container productivity platform built with Next.js, Express, and MongoDB.
-* **[Beroea](https://github.com/hes0o/beroea):** Enterprise-grade web platform and production landing architecture.
+* **Backend & Systems:** FastAPI, Node.js (Express), PHP, .NET Core, Python, C#
+* **Frontend Architecture:** Next.js, React, TypeScript, Tailwind CSS
+* **Databases & Search:** PostgreSQL (pgvector), MongoDB, MySQL
+* **AI & Security:** RAG Pipelines, Google Gemini API, Prompt Engineering, JWT Auth, OAuth, Rate Limiting
+* **DevOps & Infrastructure:** Docker, Docker Compose, GitHub Actions (CI/CD), Nginx, Debian Linux
 
 ---
+
+### 🚀 Featured Systems & Architecture
+
+* **[CVE Analyzer Assistant](https://github.com/hes0o/cve-analyzer-assistant)** 
+  * **Domain:** Security & AI 
+  * **Architecture:** FastAPI backend orchestrating NVD/CISA KEV data ingestion, PostgreSQL + pgvector for semantic search, and RAG pipelines for threat analysis.
+
+* **[HedeFly](https://github.com/hes0o/hedefly-showcase)**
+  * **Domain:** Full-Stack SaaS
+  * **Architecture:** Decoupled Next.js frontend and Express/MongoDB backend. Features real-time Socket.IO communication, AI function calling, and containerized CI/CD deployment.
+
+* **[IsLink](https://github.com/hes0o/IsLink)**
+  * **Domain:** Freelance Marketplace
+  * **Architecture:** Hybrid database strategy (PostgreSQL for transactions, MongoDB for chat). Built with .NET 8 API, React 18, and Groq AI for project matching.
+
+* **[Barbershop](https://github.com/hes0o/barbershop)**
+  * **Domain:** Business Operations
+  * **Architecture:** Secure PHP/MySQL scheduling system featuring Role-Based Access Control (RBAC), appointment collision prevention, and prepared statement security.
 
 ### 🌐 Production Systems & Live Applications
 
