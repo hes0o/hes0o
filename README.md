@@ -36,5 +36,5 @@ Focused on architecting scalable web applications, designing asynchronous backen
 
 ### 📫 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/hassan-chawa-15b9592b3)
+* **LinkedIn:** [Hassan-Chawa](https://linkedin.com/in/hassan-chawa-15b9592b3)
 * **Email:** hassanshawa30@gmail.com
