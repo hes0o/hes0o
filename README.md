@@ -23,6 +23,17 @@ Focused on architecting scalable web applications, designing asynchronous backen
 
 ---
 
+### 🌐 Production Systems & Live Applications
+
+* **Hedefly** — Full-stack personal productivity & goal management platform.
+  * **Architecture:** Next.js, Node.js / Express, MongoDB, Docker, Nginx reverse proxy.
+  * **Deployment:** Hosted and maintained on an independent Linux (Debian) production server.
+  * **Live Demo:** [hedeFly.live](https://your-domain.com) *(replace with actual link)*
+
+* **Beroea** — Digital startup platform and service architecture.
+  * **Architecture:** Next.js, React, TypeScript, Tailwind CSS.
+  * **Live Demo:** [beroea.com](https://your-domain.com) *(replace with actual link)*
+
 ### 📫 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/hassan-chawa-15b9592b3)
