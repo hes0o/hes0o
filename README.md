@@ -28,7 +28,7 @@ Focused on architecting scalable web applications, designing asynchronous backen
 * **Hedefly** — Full-stack personal productivity & goal management platform.
   * **Architecture:** Next.js, Node.js / Express, MongoDB, Docker, Nginx reverse proxy.
   * **Deployment:** Hosted and maintained on an independent Linux (Debian) production server.
-  * **Live Demo:** [hedefly.shawa.com.tr/](https://hedefly.shawa.com.tr)
+  * **Live Demo:** [hedefly.shawa.com.tr](https://hedefly.shawa.com.tr)
 
 * **Beroea** — Digital startup platform and service architecture.
   * **Architecture:** Next.js, React, TypeScript, Tailwind CSS.
