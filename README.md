@@ -1,10 +1,29 @@
+# Hi, I'm Hesoo 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassan-chawa-15b9592b3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanshawa30@gmail.com) 
+**the long way of a Full-Stack Software Developer & DevOps Enthusiast**  
+Focused on architecting scalable web applications, designing asynchronous backend APIs, and automating containerized deployments on Linux infrastructure.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hes0o&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hes0o&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hes0o&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+---
+
+### 🛠 Tech Stack
+
+* **Languages:** TypeScript, JavaScript, Python, SQL, Bash ,Java , C# 
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Backend:** FastAPI, Node.js, Express, REST APIs
+* **Databases:** PostgreSQL, MongoDB
+* **DevOps & Cloud:** Docker, Docker Compose, Nginx, Linux (Debian), CI/CD (GitHub Actions)
+
+---
+
+### 🚀 Featured Engineering Projects
+
+* **[cve-analyzer-assistant](https://github.com/hes0o/cve-analyzer-assistant):** Automated backend pipeline for security vulnerability analysis using FastAPI and PostgreSQL.
+* **[HedeFly](https://github.com/hes0o/HedeFly):** Full-stack, multi-container productivity platform built with Next.js, Express, and MongoDB.
+* **[Beroea](https://github.com/hes0o/beroea):** Enterprise-grade web platform and production landing architecture.
+
+---
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/hassan-chawa-15b9592b3)
+* **Email:** hassanshawa30@gmail.com
