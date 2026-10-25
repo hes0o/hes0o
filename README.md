@@ -30,9 +30,9 @@ I build production-oriented full-stack systems, AI applications, and security to
   * **Domain:** Freelance Marketplace
   * **Architecture:** Hybrid database strategy (PostgreSQL for transactions, MongoDB for chat). Built with .NET 8 API, React 18, and Groq AI for project matching.
 
-* **[Barbershop](https://github.com/hes0o/barbershop)**
+* **[Modern E commerce]([https://github.com/hes0o/barbershop](https://github.com/hes0o/Modern-E-Commerce-System-Modern-E-Ticaret-Sistemi))**
   * **Domain:** Business Operations
-  * **Architecture:** Secure PHP/MySQL scheduling system featuring Role-Based Access Control (RBAC), appointment collision prevention, and prepared statement security.
+  * **Architecture:** Secure FastApi/PostgreSQL 16 Full-stack e-commerce platform: a customer storefront and an admin panel on top of a FastAPI + PostgreSQL backend, with role-based permissions, transactional stock handling, an order state machine and a tamper-proof audit log.
 
 ### 🌐 Production Systems & Live Applications
 
